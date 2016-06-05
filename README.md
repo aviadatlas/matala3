@@ -13,5 +13,15 @@ We included an input .txt file that contains:
 8) battery price of every pause in light
 9) radius of every message sent (based on a probabilty formula)
 
+We have created a GUI that has different buttons:
+1) [in tab 'file'] open text file - used to get an input .txt file from the user
+2) start - drawes our arena including placing all regular robots and static robots
+3) next - does one turn.
+4) [in tab 'file'] next 30 steps - does 30 turns
+5) [in tab 'file'] next X steps - gives the user the option to input how many turns to do
+6) [in tab 'file'] save to CSV file - gives the user an option to save the log of all the robots in the current step to a .csv file
+
+Regarding the entities and relations in our project - view the ERD and UML diagram included. 
+
 
 
